@@ -1,0 +1,18 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JSCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+    </JSCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
+    </JavaCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="50" />
+      <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="30" />
+    </JetCodeStyleSettings>
+  </code_scheme>
+</component>
